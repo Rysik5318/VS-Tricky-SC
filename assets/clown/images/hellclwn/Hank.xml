@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hank.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Hank001.png" x="663" y="1" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank002.png" x="994" y="1" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank003.png" x="1325" y="1" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank004.png" x="1656" y="1" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank005.png" x="1987" y="1" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank006.png" x="1" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank007.png" x="332" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank008.png" x="663" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank009.png" x="994" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank0010.png" x="1325" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank0011.png" x="1656" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+<SubTexture name="Hank0012.png" x="1987" y="296" width="329" height="293" frameX="-0" frameY="-0" frameWidth="329" frameHeight="293"/>
+</TextureAtlas>
