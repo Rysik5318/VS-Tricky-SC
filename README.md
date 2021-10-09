@@ -1,4 +1,4 @@
-# Vs. Tricky (trickster, what ever)
+# Vs. Tricky Optimization
 
 ok ok so heres the build instructions.
 
